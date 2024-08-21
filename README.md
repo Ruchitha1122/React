@@ -1,3 +1,4 @@
+ HEAD
 # parcel
 - Dev build
 - local server
@@ -15,3 +16,6 @@
 - host yr app on HTTPS aslo
 - tree shaking algorithm - remove unused code 
 - different dev and product bundles
+
+# React
+ 310facd9deef9682a73153ed815e30186bd09d40
